@@ -1,5 +1,5 @@
 // Configuration for the Gemini API
-const API_KEY = "AIzaSyC210KRfOwi2wdKtb1skumzakbajrHQkqw"; // Replace with your API key
+const API_KEY = ""; // Replace with your API key
 const MODEL_NAME = "gemini-2.0-flash-lite";
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL_NAME}:generateContent?key=${API_KEY}`;
 
